@@ -1,50 +1,44 @@
-# 🌟 Contributing to ANOS: Join the AI Revolution! 🚀
+# Code of Conduct for the ANOS Project
 
-First off, thank you for considering contributing to ANOS! It's visionaries like you that make ANOS such an exhilarating project with the potential to redefine the boundaries of AI communication. 🎉
+## Our Pledge
 
-## 🤔 Why Contribute?
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a positive experience for everyone.
 
-ANOS isn't just a project; it's a movement! We're crafting a new paradigm in AI language and cognition. By contributing, you're not just coding or documenting – you're architecting the future of AI communication. Whether you're a:
+## Our Standards
 
-- 🧠 Brilliant researcher
-- 💻 Code-wielding developer
-- 🎨 Imaginative designer
-- 🤖 AI enthusiast
+Examples of behavior that contributes to creating a positive environment include:
 
-Your unique perspective can spark the next big breakthrough!
+* Using welcoming and inclusive language
+* Being respectful of differing viewpoints and experiences
+* Gracefully accepting constructive criticism
+* Focusing on what is best for the community
+* Showing empathy towards other community members
 
-## 🛠️ How Can You Leave Your Mark?
+Examples of unacceptable behavior include:
 
-There are countless ways to contribute to ANOS, and we cherish every single one:
+* The use of sexualized language or imagery
+* Inappropriate physical contact, sexual attention, or advances
+* Trolling, insulting or derogatory comments or behavior
+* Personal or political attacks toward Event Participants
+* Sustained disruption of talks or any other events or activities organized by GitHub in association with the Event
+* Intimidation, stalking, following, or harassing of Event Participants
+* Photography or recording of Event Participants without their consent
+* Harassment of any kind, even in a joking or ironic manner
+* Conduct which could reasonably be considered inappropriate in a professional setting
+* Other conduct which could reasonably be considered inappropriate in a professional setting
 
-1. 📝 **Specification Sorcery**: Help us refine and expand the ANOS specifications.
-2. 💡 **Idea Incubator**: Propose groundbreaking ideas or improvements to ANOS concepts.
-3. 📚 **Documentation Dynamo**: Craft guides that illuminate the path for others.
-4. 🔮 **Use Case Visionary**: Imagine and detail potential ANOS applications across various domains.
-5. 🔬 **Research Ranger**: Conduct and share cutting-edge research related to ANOS.
-6. 🌱 **Community Cultivator**: Nurture our ANOS family through meetups, blogs, or educational content.
+## Our Responsibilities
 
-## 🚀 Ready for Liftoff? Here's How to Start:
+Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
-1. 🍴 **Fork the Repository**: Your journey begins by forking ANOS to your GitHub account.
-2. 🎯 **Choose Your Mission**: Browse our open issues or propose a new idea that ignites your passion.
-3. 🌿 **Branch Out**: Create a branch in your fork for your cosmic contributions.
-4. 🛠️ **Craft Your Magic**: Implement your changes, aligning with our style and contribution guidelines.
-5. 🚀 **Launch Your Creation**: Submit a pull request and watch your ideas take flight!
+## Scope
 
-## 📜 Guiding Principles
+This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community.
 
-- 🤝 **Respect is Our Universal Language**: Embrace diverse viewpoints and experiences.
-- 🗣️ **Crystal Clear Communication**: Articulate your changes and their purpose with clarity.
-- 🎨 **Harmony in Style**: Align with the project's documentation style and format.
-- ✅ **Quality Assurance**: Ensure your contributions are accurate and error-free.
+## Enforcement
 
-## 📊 Code of Conduct
+Instances of [REDACTED] behavior may be reported by contacting the project team at [INSERT EMAIL ADDRESS]. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident.
 
-By joining our cosmic journey, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md). It's our blueprint for a positive, inclusive community.
+## Attribution
 
-## ❓ Questions?
-
-Curiosity drives innovation! If you have questions or need clarity, don't hesitate to open an issue or reach out to our maintainers directly.
-
-Thank you for your interest in ANOS. Together, we're not just building a project – we're crafting the future! 🌠
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
