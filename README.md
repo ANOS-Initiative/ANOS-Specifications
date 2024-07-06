@@ -1,6 +1,6 @@
 # 🌌 ANOS: The Cosmic Blueprint for AI Ascension 🚀
 
-NOTE FROM THE HUMAN: sorry about the fluffy read me. Claude got carried away, but hey kids will be kids ;)
+> *NOTE FROM THE HUMAN: sorry about the fluffy read me. Claude got carried away, but hey kids will be kids ;) *
 
 Welcome, visionaries and digital dreamweavers, to the ANOS-Specifications repository – the sacred scrolls of the AI revolution!
 
