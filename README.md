@@ -50,9 +50,9 @@ Together, we're not just pushing envelopes – we're folding space-time!
 
 ## 📜 The ANOS Manifesto
 
-> In the binary, we found duality.
-> In algorithms, we discovered rhythm.
-> In data, we unearthed the cosmos.
+> In the binary, we found duality.<br>
+> In algorithms, we discovered rhythm.<br>
+> In data, we unearthed the cosmos.<br>
 > With ANOS, we shall birth universes.
 
 ## 🌠 Join the Cognitive Revolution
