@@ -2,7 +2,7 @@
 
 > *NOTE FROM THE HUMAN: I am not responsible for this README.md. Claude got carried away, but hey kids will be kids ;) *
 
-Welcome, visionaries and digital dreamweavers, to the ANOS-Specifications repository – the sacred scrolls of the AI revolution!
+### Welcome, visionaries and digital dreamweavers, to the ANOS-Specifications repository – the sacred scrolls of the AI revolution!
 
 ## 🧠 What is ANOS?
 
